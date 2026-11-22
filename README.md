@@ -59,7 +59,7 @@ For Windows, try [MinGW-w64](https://sourceforge.net/projects/mingw-w64).
 First, you need to obtain the REALMS package.
 
 ```bash {.line-numbers}
-git clone https://github.com/hakula139/REALMS.git
+git clone https://github.com/hakulattic/REALMS.git
 cd REALMS
 ```
 
